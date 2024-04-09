@@ -12,7 +12,9 @@
       "properties": {
         "name": "Central and Western",
         "id": "cw",
-        "type": "District"
+        "type": "District",
+        "area": "Hong Kong Island",
+        "description": "Including Kennedy Town, Shek Tong Tsui, Sai Ying Pun, Sheung Wan, Central, Admiralty, Mid-levels and The Peak"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3104,7 +3106,9 @@
       "properties": {
         "name": "Eastern",
         "type": "District",
-        "id": "es"
+        "id": "es",
+        "area": "Hong Kong Island",
+        "description": "Including Fortress Hill, North Point, Braemar Hill, Quarry Bay, TaiKoo Shing, Sai Wan Ho, Shau Kei Wan, Chai Wan and Siu Sai Wan"
       }
     },
     {
@@ -3627,7 +3631,9 @@
       "properties": {
         "name": "Wan Chai",
         "type": "District",
-        "id": "wc"
+        "id": "wc",
+        "area": "Hong Kong Island",
+        "description": "Including Causeway Bay, Happy Valley and Tin Hau"
       }
     },
     {
@@ -10063,7 +10069,9 @@
       "properties": {
         "name": "Southern",
         "type": "District",
-        "id": "so"
+        "id": "so",
+        "area": "Hong Kong Island",
+        "description": "Including Aberdeen, Stanley and Shek O"
       }
     },
     {
@@ -10071,7 +10079,9 @@
       "properties": {
         "name": "Islands",
         "type": "District",
-        "id": "is"
+        "id": "is",
+        "area": "New Territories West",
+        "description": "Including Lantau Island, Lamma Island, Cheung Chau, Ping Chau and Po Toi Island"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33052,7 +33062,9 @@
       "properties": {
         "name": "Sai Kung",
         "type": "District",
-        "id": "sk"
+        "id": "sk",
+        "area": "New Territories East",
+        "description": "Including Tseung Kwan O, Clear Water Bay and Pak Tam Chung"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53241,7 +53253,9 @@
       "properties": {
         "name": "Tai Po",
         "type": "District",
-        "id": "tp"
+        "id": "tp",
+        "area": "New Territories East",
+        "description": "Including Lam Tsuen, Tai Po Kau, Tai Mei Tuk and Sai Kung North"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75776,7 +75790,9 @@
       "properties": {
         "name": "North",
         "type": "District",
-        "id": "no"
+        "id": "no",
+        "area": "New Territories East",
+        "description": "Including Sheung Shui, Fan Ling, Kwu Tung, Ta Kwu Ling and Sha Tau Kok"
       }
     },
     {
@@ -80635,7 +80651,9 @@
       "properties": {
         "name": "Yuen Long",
         "type": "District",
-        "id": "yl"
+        "id": "yl",
+        "area": "New Territories West",
+        "description": "Including Tin Shui Wai, Kam Tin, Lok Ma Chau and Hung Shui Kiu"
       }
     },
     {
@@ -85889,7 +85907,9 @@
       "properties": {
         "name": "Tuen Mun",
         "type": "District",
-        "id": "tm"
+        "id": "tm",
+        "area": "New Territories West",
+        "description": "Including Tai Lam Chung, Golden Coast, Lung Kwu Tan and Lam Tei"
       }
     },
     {
@@ -90982,7 +91002,9 @@
       "properties": {
         "name": "Tsuen Wan",
         "type": "District",
-        "id": "tw"
+        "id": "tw",
+        "area": "New Territories West",
+        "description": "Including Lei Muk Shu, Sam Cheng, Ma Wan, Sunny Bay and Ching Lung Tau"
       }
     },
     {
@@ -90990,7 +91012,9 @@
       "properties": {
         "name": "Sha Tin",
         "type": "District",
-        "id": "st"
+        "id": "st",
+        "area": "New Territories East",
+        "description": "Including Tai Wai, Sha Tin Wai, Fo Tan, Ma Liu Shui and Ma On Shan"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97632,7 +97656,9 @@
       "properties": {
         "name": "Kwai Tsing",
         "id": "kwt",
-        "type": "District"
+        "type": "District",
+        "area": "New Territories West",
+        "description": "Including Lai King, Kwai Fong, Shek Lei, Tsing Yi Island and Tai Wo Hau"
       }
     },
     {
@@ -98539,7 +98565,9 @@
       "properties": {
         "name": "Sham Shui Po",
         "type": "District",
-        "id": "ssp"
+        "id": "ssp",
+        "area": "Kowloon West",
+        "description": "Including Mei Foo, Lai Chi Kok, Cheung Sha Wan, Shek Kip Mei and Yau Yat Tsuen"
       }
     },
     {
@@ -99590,7 +99618,9 @@
       "properties": {
         "name": "Yau Tsim Mong",
         "id": "ytm",
-        "type": "District"
+        "type": "District",
+        "area": "Kowloon West",
+        "description": "Including Tsim Sha Tsui, Mong Kok, Yau Ma Tei, Prince Edward and Ti Kok Tsui"
       }
     },
     {
@@ -101213,7 +101243,9 @@
       "properties": {
         "name": "Kowloon City",
         "id": "kc",
-        "type": "District"
+        "type": "District",
+        "area": "Kowloon West",
+        "description": "Including Hung Hom, To Kwa Wan, Kai Tak, Ho Man Tin and Kowloon Tong"
       }
     },
     {
@@ -101680,7 +101712,9 @@
       "properties": {
         "name": "Wong Tai Sin",
         "type": "District",
-        "id": "wts"
+        "id": "wts",
+        "area": "Kowloon East",
+        "description": "Including Lok Fu, Ngau Chi Wan (Choi Hung), Diamond Hill, San Po Kong and Tzs Wan Shan"
       }
     },
     {
@@ -102703,7 +102737,9 @@
       "properties": {
         "name": "Kwun Tong",
         "type": "District",
-        "id": "kt"
+        "id": "kt",
+        "area": "Kowloon East",
+        "description": "Including Kowloon Bay, Shun Lee Estate, Ngau Tau Kok, Lam Tin, Shau Mau Ping and Yau Tong"
       }
     }
   ]
